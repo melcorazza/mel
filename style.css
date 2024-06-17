@@ -1,0 +1,108 @@
+@media only screen and (max-width: 600px) { 
+    body {background-color: rgb(232, 240, 164);} }
+
+    
+.p1{text-align: center;
+font-size: 200%;
+color: rgb(235, 5, 36);
+border-color: black;
+border-width: 6px;
+border-style: groove;
+margin-left: 10%;
+margin-right: 10%;
+padding-top: 1%;
+padding-bottom: 1%;}
+
+.p2{text-align: center;
+    font-size: 150%;
+    color: rgb(110, 1, 101);
+}
+.p3{text-align: center;
+    font-size: 150%;
+    color: rgb(56, 11, 216);
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(127, 219, 21);}
+
+.p4{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: dashed;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(36, 8, 196);}
+
+.p5{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 6px;
+    border-style: double;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(83, 19, 88);}
+
+.p6{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(123, 202, 233);}
+
+.p7{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:groove;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(193, 138, 238);}
+
+.p8{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:dashed;
+    margin-top: 1%;
+    margin-left: 50%;
+    margin-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(212, 137, 24);}
+
+.p9{text-align: center;
+    font-size: 150%;
+    color: rgb(3, 2, 2);
+    border-color: black;
+    border-width: 3px;
+    border-style:double;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 50%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+background-color: rgb(39, 150, 107);}
